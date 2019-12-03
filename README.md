@@ -1,5 +1,6 @@
 # Recommendation System
-Author: Sofia Lujan
+## Author: Sofia Lujan
+
 User-Item Recommendation System with Surprise
 
     This dataset contains social networking, tagging, and music artist listening information 
@@ -11,6 +12,7 @@ User-Item Recommendation System with Surprise
     http://ir.ii.uam.es/hetrec2011 
     at the 5th ACM Conference on Recommender Systems (RecSys 2011)
     http://recsys.acm.org/2011 
+
 
 
 COLAB: https://colab.research.google.com/drive/1YS2h2_czNJD54qpldUK-8u8acW6Z6Nkb
