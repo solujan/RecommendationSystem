@@ -1,7 +1,7 @@
 # Recommendation System
 ## Author: Sofia Lujan
 
-User-Item Recommendation System with Surprise
+### User-Item Recommendation System with Surprise
 
 	Notebook: LastFMRecommendationSystem.ipynb
 
@@ -20,7 +20,7 @@ User-Item Recommendation System with Surprise
 COLAB: https://colab.research.google.com/drive/1YS2h2_czNJD54qpldUK-8u8acW6Z6Nkb
 
 
-User-Item and Content Based Recommendation System 
+### User-Item and Content Based Recommendation System 
     Notebook: SteamRecommendationSystem.ipynb
 
     This dataset contains games review from Steam Platform
