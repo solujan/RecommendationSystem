@@ -3,6 +3,8 @@
 
 User-Item Recommendation System with Surprise
 
+	Notebook: LastFMRecommendationSystem.ipynb
+
     This dataset contains social networking, tagging, and music artist listening information 
     from a set of 2K users from Last.fm online music system.
     http://www.last.fm 
@@ -16,3 +18,13 @@ User-Item Recommendation System with Surprise
 
 
 COLAB: https://colab.research.google.com/drive/1YS2h2_czNJD54qpldUK-8u8acW6Z6Nkb
+
+
+User-Item and Content Based Recommendation System 
+    Notebook: SteamRecommendationSystem.ipynb
+
+    This dataset contains games review from Steam Platform
+
+
+
+COLAB: https://colab.research.google.com/drive/1rClAhRt1xSS__ZDgaVe3gP9OAHOdTQRt
